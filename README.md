@@ -1,6 +1,6 @@
 [![NPM Version](https://badge.fury.io/js/hierarchy-closure.png)](https://npmjs.org/package/hierarchy-closure)
 [![Build Status](https://travis-ci.org/ericprud/hierarchy-closure.svg?branch=master)](https://travis-ci.org/ericprud/hierarchy-closure)
-[![Coverage Status](https://coveralls.io/repos/github/ericprud/hierarchy-closure/badge.svg?branch=jest)](https://coveralls.io/github/ericprud/hierarchy-closure?branch=hest)
+[![Coverage Status](https://coveralls.io/repos/github/ericprud/hierarchy-closure/badge.svg?branch=master)](https://coveralls.io/github/ericprud/hierarchy-closure?branch=master)
 
 # hierarchy-closure
 Maintain simple hierarchy by adding members in any order.
