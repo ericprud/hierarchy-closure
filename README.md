@@ -106,14 +106,14 @@ Hierarchy.depthFirst(t.roots, (l, r) => seen.push([l, r]))
 
 ``` JSON
 [
-  [ 'AB1C1D1', 'AB1C1' ],
-  [ 'AB1C1D2', 'AB1C1' ],
-  [ 'AB1C1', 'AB1' ],
-  [ 'AB1C2D1', 'AB1C2' ],
-  [ 'AB1C2', 'AB1' ],
-  [ 'AB1', 'A' ],
-  [ 'AB2C1D1', 'AB2C1' ],
-  [ 'AB2C1', 'AB2' ],
-  [ 'AB2', 'A' ]
+  [ "AB1C1D1", "AB1C1" ],
+  [ "AB1C1D2", "AB1C1" ],
+  [ "AB1C1", "AB1" ],
+  [ "AB1C2D1", "AB1C2" ],
+  [ "AB1C2", "AB1" ],
+  [ "AB1", "A" ],
+  [ "AB2C1D1", "AB2C1" ],
+  [ "AB2C1", "AB2" ],
+  [ "AB2", "A" ]
 ]
 ```
