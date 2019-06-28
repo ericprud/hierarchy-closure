@@ -9,9 +9,8 @@ var HierarchyClosure = (function () {
     let holders = {}
     return {
       add: function (parent, child) {
-        if (parent === child || // skip add(A, A)
-            // test if this is a novel entry.
-            (parent in children && children[parent].indexOf(child) !== -1)) {
+        if (// test if this is a novel entry.
+          (parent in children && children[parent].indexOf(child) !== -1)) {
           return
         }
         let target = parent in holders
