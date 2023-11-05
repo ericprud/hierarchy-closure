@@ -1,6 +1,6 @@
 {
   "name": "hierarchy-closure",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "keep closure of parents and children in hierarchy",
   "main": "hierarchy-closure.js",
   "types": "hierarchy-closure.d.ts",
