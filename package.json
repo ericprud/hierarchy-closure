@@ -3,6 +3,7 @@
   "version": "0.0.0-development",
   "description": "keep closure of parents and children in hierarchy",
   "main": "hierarchy-closure.js",
+  "types": "hierarchy-closure.d.ts",
   "scripts": {
     "coverage": "istanbul cover node_modules/.bin/_mocha -- -R spec --timeout 100",
     "coverage:report": "cat ./coverage/lcov.info | coveralls",
